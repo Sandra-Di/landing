@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  margin: 0px;
+  }
+h1, h3 {
+	 font-family: "Ballet", cursive;
+	 font-weight: 500;
+}
+h2{
+  font-family: "Work Sans", sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  }
+a {
+	text-decoration: none;
+}
